@@ -3,7 +3,7 @@
 """
 Created on Sun Apr 20 16:14:26 2025
 
-@author: peerachet
+@author: Chalermchai
 """
 import streamlit as st
 import matplotlib.pyplot as plt
